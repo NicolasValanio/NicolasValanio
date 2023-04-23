@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NicolasValanio&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Nicolas_vala)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -25,7 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NicolasValanio&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/](https://res.cloudinary.com/dwrupo75d/video/upload/v1682288081/336984210_1089535149103911_1282998052774593585_n_wdaole.mp4)" width="512px"/>
+<video src="https://res.cloudinary.com/dwrupo75d/video/upload/v1682288081/336984210_1089535149103911_1282998052774593585_n_wdaole.mp4" width="640" height="480"></video>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NicolasValanio&icon=7&color=4)](https://visitcount.itsvg.in)
