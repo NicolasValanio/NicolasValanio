@@ -24,7 +24,7 @@
 
 ### 😂 Random Dev Meme
 
-<video autoplay controls src="https://res.cloudinary.com/dwrupo75d/video/upload/v1682288081/336984210_1089535149103911_1282998052774593585_n_wdaole.mp4" width="640" height="480"></video>
+<img src="https://res.cloudinary.com/dwrupo75d/image/upload/v1682288794/WhatsApp_Image_2023-04-23_at_5.26.17_PM_pq7x6e.jpg">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NicolasValanio&icon=7&color=4)](https://visitcount.itsvg.in)
