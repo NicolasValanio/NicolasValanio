@@ -23,13 +23,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NicolasValanio&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<video src="https://res.cloudinary.com/dwrupo75d/video/upload/v1682288081/336984210_1089535149103911_1282998052774593585_n_wdaole.mp4" width="640" height="480"></video>
+
+<video autoplay controls src="https://res.cloudinary.com/dwrupo75d/video/upload/v1682288081/336984210_1089535149103911_1282998052774593585_n_wdaole.mp4" width="640" height="480"></video>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NicolasValanio&icon=7&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/NicolasVFreelancer) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
