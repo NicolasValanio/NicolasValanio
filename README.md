@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on my own projects.<br>😎 I’m looking to collaborate with others devs.<br>🤝 I'm open to new job vacancies.<br>🌱 I'm currently studying systems engineering.<br>💻Currently, I am a Frontend developer, but I have knowledge of Backend as well.<br>⚡ Fun fact, as a child my main passion was music.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nicolas.Valanio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-valenzuela-co/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nicolas_vala) 
 
